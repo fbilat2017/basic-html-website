@@ -1,6 +1,2 @@
-# basic-html-website
-
-
-
-https://github.com/fbilat2017/basic-html-website.git
+# https://github.com/fbilat2017/basic-html-website.git
 
